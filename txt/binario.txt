@@ -1,0 +1,9320 @@
+
+###FILE###
+Input file=A20230904.1008-0400-20230904.1009-0400_1_ebme.120
+
+###HEADER###
+date=2023-09-04
+time=10:08:00
+File format version=1
+File information version=6
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 0
+	time_millisecond = 755
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 509910640
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 3508304144081355252
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 10257
+	service_ul_bytes = 5580
+	activity_time = 259
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 2622
+	min_dl_throughput = 0
+	max_ul_throughput = 1345
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 159040
+	irtt_server = 123105
+	dl_tcp_segments = 10
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 12
+	rtx_ul_tcp_segments = 3
+	active_tcp_flows = 0
+	created_tcp_flows = 5
+	closed_tcp_flows = 5
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 0
+	time_millisecond = 897
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 136065312
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 184647619081929200
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 14458790
+	service_ul_bytes = 980735
+	activity_time = 759
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 319513
+	min_dl_throughput = 0
+	max_ul_throughput = 23591
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 5208767
+	irtt_server = 375926
+	dl_tcp_segments = 1204
+	rtx_dl_tcp_segments = 43
+	ul_tcp_segments = 999
+	rtx_ul_tcp_segments = 17
+	active_tcp_flows = 0
+	created_tcp_flows = 74
+	closed_tcp_flows = 74
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 0
+	time_millisecond = 958
+	duration = 900008
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 591357889
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 2400418635748213185
+service_info:
+	service_id = default
+	service_dl_bytes = 2400
+	service_ul_bytes = 1920
+	activity_time = 4
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 405
+	min_dl_throughput = 0
+	max_ul_throughput = 273
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 1
+	time_millisecond = 876
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 891574432
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 3508304144081355255
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 31534
+	service_ul_bytes = 47484
+	activity_time = 610
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 6197
+	min_dl_throughput = 0
+	max_ul_throughput = 10371
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 409953
+	irtt_server = 532389
+	dl_tcp_segments = 41
+	rtx_dl_tcp_segments = 3
+	ul_tcp_segments = 40
+	rtx_ul_tcp_segments = 3
+	active_tcp_flows = 1
+	created_tcp_flows = 8
+	closed_tcp_flows = 7
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 1
+	time_millisecond = 875
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 718183457
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1463669913255149701
+service_info:
+	service_id = default
+	service_dl_bytes = 0
+	service_ul_bytes = 9436
+	activity_time = 488
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 0
+	min_dl_throughput = 0
+	max_ul_throughput = 718
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 1
+	time_millisecond = 950
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 385647360
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 3508304144081355258
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 1044514
+	service_ul_bytes = 355536
+	activity_time = 845
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 212454
+	min_dl_throughput = 0
+	max_ul_throughput = 48122
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 2738978
+	irtt_server = 3186057
+	dl_tcp_segments = 541
+	rtx_dl_tcp_segments = 10
+	ul_tcp_segments = 366
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 24
+	closed_tcp_flows = 27
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 2
+	time_millisecond = 238
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 140046880
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 3485786145944502765
+service_info:
+	service_id = DNS
+	service_dl_bytes = 8775
+	service_ul_bytes = 4400
+	activity_time = 722
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 1032
+	min_dl_throughput = 0
+	max_ul_throughput = 499
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 209892
+	irtt_server = 38005
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 2
+	time_millisecond = 341
+	duration = 6777
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 635714033
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1950058673011163450
+service_info:
+	service_id = default
+	service_dl_bytes = 5608
+	service_ul_bytes = 4288
+	activity_time = 2
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 2
+	time_millisecond = 613
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 614787602
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 173388620013502973
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 88988
+	service_ul_bytes = 27280
+	activity_time = 414
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 12724
+	min_dl_throughput = 0
+	max_ul_throughput = 3104
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 39081
+	irtt_server = 34467
+	dl_tcp_segments = 248
+	rtx_dl_tcp_segments = 3
+	ul_tcp_segments = 171
+	rtx_ul_tcp_segments = 8
+	active_tcp_flows = 1
+	created_tcp_flows = 16
+	closed_tcp_flows = 15
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 2
+	time_millisecond = 717
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 1010108823
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 5906470945656144033
+service_info:
+	service_id = default
+	service_dl_bytes = 56944
+	service_ul_bytes = 39291
+	activity_time = 864
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 5288
+	min_dl_throughput = 0
+	max_ul_throughput = 3450
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 34292
+	irtt_server = 61249
+	dl_tcp_segments = 197
+	rtx_dl_tcp_segments = 33
+	ul_tcp_segments = 158
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 1
+	created_tcp_flows = 24
+	closed_tcp_flows = 23
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 2
+	time_millisecond = 855
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 467598112
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 3510555943895040489
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 270
+	service_ul_bytes = 274
+	activity_time = 509
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 36
+	min_dl_throughput = 0
+	max_ul_throughput = 36
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 5485826
+	irtt_server = 1463281
+	dl_tcp_segments = 4
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 4
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 2
+	closed_tcp_flows = 2
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 2
+	time_millisecond = 973
+	duration = 502657
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 635714041
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1474928912323576303
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 27369673
+	service_ul_bytes = 1571455
+	activity_time = 502
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 5128248
+	min_dl_throughput = 58
+	max_ul_throughput = 159777
+	min_ul_throughput = 111
+tcp_info:
+	irtt_user = 1063851
+	irtt_server = 5449158
+	dl_tcp_segments = 15055
+	rtx_dl_tcp_segments = 21
+	ul_tcp_segments = 5593
+	rtx_ul_tcp_segments = 2
+	active_tcp_flows = 0
+	created_tcp_flows = 175
+	closed_tcp_flows = 192
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 3
+	time_millisecond = 112
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 733873776
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6496442496841679391
+service_info:
+	service_id = default
+	service_dl_bytes = 10596
+	service_ul_bytes = 9488
+	activity_time = 20
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 2209
+	min_dl_throughput = 0
+	max_ul_throughput = 2166
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 3
+	time_millisecond = 409
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 824083872
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 3508304144081355254
+service_info:
+	service_id = default
+	service_dl_bytes = 173122
+	service_ul_bytes = 106659
+	activity_time = 837
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 3182
+	min_dl_throughput = 0
+	max_ul_throughput = 1576
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 0
+	irtt_server = 1730890
+	dl_tcp_segments = 194
+	rtx_dl_tcp_segments = 11
+	ul_tcp_segments = 179
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 6
+	created_tcp_flows = 14
+	closed_tcp_flows = 8
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 3
+	time_millisecond = 458
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 296216334
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 5089067613288399149
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 806
+	service_ul_bytes = 1978
+	activity_time = 5
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 214
+	min_dl_throughput = 0
+	max_ul_throughput = 527
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 8
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 8
+	rtx_ul_tcp_segments = 1
+	active_tcp_flows = 0
+	created_tcp_flows = 1
+	closed_tcp_flows = 1
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 3
+	time_millisecond = 440
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 231403355
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4850376833037762992
+service_info:
+	service_id = Internal_Services_PR
+	service_dl_bytes = 8749
+	service_ul_bytes = 2614
+	activity_time = 655
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 2319
+	min_dl_throughput = 0
+	max_ul_throughput = 473
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 29108
+	irtt_server = 1334
+	dl_tcp_segments = 12
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 22
+	rtx_ul_tcp_segments = 9
+	active_tcp_flows = 0
+	created_tcp_flows = 3
+	closed_tcp_flows = 3
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 3
+	time_millisecond = 496
+	duration = 405
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 747562146
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6874744865540801061
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 1576
+	service_ul_bytes = 1740
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = 57985
+	irtt_server = 35271
+	dl_tcp_segments = 4
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 7
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 4
+	closed_tcp_flows = 4
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 3
+	time_millisecond = 700
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 953675403
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1787929086425825785
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 72029483
+	service_ul_bytes = 3051168
+	activity_time = 894
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 2911599
+	min_dl_throughput = 25
+	max_ul_throughput = 73369
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 145141
+	irtt_server = 230659
+	dl_tcp_segments = 1771
+	rtx_dl_tcp_segments = 33
+	ul_tcp_segments = 1555
+	rtx_ul_tcp_segments = 19
+	active_tcp_flows = 3
+	created_tcp_flows = 87
+	closed_tcp_flows = 85
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 3
+	time_millisecond = 826
+	duration = 469
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 26127531
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6874744865540801060
+service_info:
+	service_id = default
+	service_dl_bytes = 817
+	service_ul_bytes = 690
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = undefined
+	irtt_server = 30834
+	dl_tcp_segments = 2
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 2
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 2
+	closed_tcp_flows = 2
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 3
+	time_millisecond = 872
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 465298448
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 8122241962322428206
+service_info:
+	service_id = tethering-catch-all
+	service_dl_bytes = 0
+	service_ul_bytes = 60
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 0
+	min_dl_throughput = 0
+	max_ul_throughput = 16
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 1
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 1
+	closed_tcp_flows = 1
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 4
+	time_millisecond = 15
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 348166432
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4845873233410392494
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 10740461
+	service_ul_bytes = 806727
+	activity_time = 882
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 1868288
+	min_dl_throughput = 0
+	max_ul_throughput = 103537
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 29122
+	irtt_server = 29558
+	dl_tcp_segments = 8101
+	rtx_dl_tcp_segments = 66
+	ul_tcp_segments = 3410
+	rtx_ul_tcp_segments = 1
+	active_tcp_flows = 1
+	created_tcp_flows = 121
+	closed_tcp_flows = 120
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 4
+	time_millisecond = 426
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 921609132
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4836866034155651486
+service_info:
+	service_id = DNS
+	service_dl_bytes = 93
+	service_ul_bytes = 61
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 24
+	min_dl_throughput = 0
+	max_ul_throughput = 16
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 4
+	time_millisecond = 884
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 394818779
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1601029701889950226
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 2412
+	service_ul_bytes = 428
+	activity_time = 40
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 597
+	min_dl_throughput = 0
+	max_ul_throughput = 68
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 1421248
+	irtt_server = 1038051
+	dl_tcp_segments = 5
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 5
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 1
+	closed_tcp_flows = 1
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 6
+	time_millisecond = 68
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 636344400
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 3510555943895040498
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 2382973
+	service_ul_bytes = 381315
+	activity_time = 874
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 496538
+	min_dl_throughput = 0
+	max_ul_throughput = 63677
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 3483303
+	irtt_server = 3145737
+	dl_tcp_segments = 2271
+	rtx_dl_tcp_segments = 139
+	ul_tcp_segments = 1797
+	rtx_ul_tcp_segments = 23
+	active_tcp_flows = 1
+	created_tcp_flows = 90
+	closed_tcp_flows = 94
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 6
+	time_millisecond = 644
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 387734464
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 3510555943895040503
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 302046
+	service_ul_bytes = 102214
+	activity_time = 373
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 76840
+	min_dl_throughput = 0
+	max_ul_throughput = 25143
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 1245275
+	irtt_server = 3320397
+	dl_tcp_segments = 292
+	rtx_dl_tcp_segments = 15
+	ul_tcp_segments = 228
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 2
+	created_tcp_flows = 20
+	closed_tcp_flows = 18
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 6
+	time_millisecond = 925
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 246666720
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 8505047930648920359
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 103368
+	service_ul_bytes = 84652
+	activity_time = 243
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 27221
+	min_dl_throughput = 0
+	max_ul_throughput = 22310
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 62175
+	irtt_server = 40769
+	dl_tcp_segments = 306
+	rtx_dl_tcp_segments = 7
+	ul_tcp_segments = 291
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 23
+	closed_tcp_flows = 23
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 7
+	time_millisecond = 38
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 975393520
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4884153830243041702
+service_info:
+	service_id = DNS
+	service_dl_bytes = 544
+	service_ul_bytes = 304
+	activity_time = 496
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 104
+	min_dl_throughput = 0
+	max_ul_throughput = 60
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 7
+	time_millisecond = 85
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 246666720
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 8505047930648920359
+service_info:
+	service_id = DNS
+	service_dl_bytes = 1155
+	service_ul_bytes = 765
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 308
+	min_dl_throughput = 0
+	max_ul_throughput = 204
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 7
+	time_millisecond = 725
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 977095630
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6710363479141777817
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 130981
+	service_ul_bytes = 86010
+	activity_time = 310
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 30304
+	min_dl_throughput = 0
+	max_ul_throughput = 19882
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 2207590
+	irtt_server = 23467354
+	dl_tcp_segments = 196
+	rtx_dl_tcp_segments = 22
+	ul_tcp_segments = 180
+	rtx_ul_tcp_segments = 2
+	active_tcp_flows = 0
+	created_tcp_flows = 24
+	closed_tcp_flows = 24
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 8
+	time_millisecond = 657
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 992417169
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6491938897214308880
+service_info:
+	service_id = default
+	service_dl_bytes = 4900
+	service_ul_bytes = 19384
+	activity_time = 846
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 1306
+	min_dl_throughput = 0
+	max_ul_throughput = 1797
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 8
+	time_millisecond = 662
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 934171649
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1490691511019372684
+service_info:
+	service_id = default
+	service_dl_bytes = 4584
+	service_ul_bytes = 3072
+	activity_time = 5
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 1222
+	min_dl_throughput = 0
+	max_ul_throughput = 819
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 9
+	time_millisecond = 228
+	duration = 5059
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 85852047
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 8367688142014120441
+service_info:
+	service_id = default
+	service_dl_bytes = 2644
+	service_ul_bytes = 4487
+	activity_time = 1
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = 37471
+	irtt_server = 2124
+	dl_tcp_segments = 8
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 10
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 1
+	closed_tcp_flows = 1
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 9
+	time_millisecond = 270
+	duration = 469
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 26127532
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6874744865540801062
+service_info:
+	service_id = default
+	service_dl_bytes = 673
+	service_ul_bytes = 676
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = undefined
+	irtt_server = 30930
+	dl_tcp_segments = 1
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 2
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 2
+	closed_tcp_flows = 2
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 9
+	time_millisecond = 363
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 713720892
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6356830908393193889
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 212019
+	service_ul_bytes = 139174
+	activity_time = 775
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 36631
+	min_dl_throughput = 0
+	max_ul_throughput = 17630
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 4917692
+	irtt_server = 530443
+	dl_tcp_segments = 72
+	rtx_dl_tcp_segments = 9
+	ul_tcp_segments = 69
+	rtx_ul_tcp_segments = 1
+	active_tcp_flows = 0
+	created_tcp_flows = 12
+	closed_tcp_flows = 13
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 9
+	time_millisecond = 632
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 669779264
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 3512807743708725754
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 25599
+	service_ul_bytes = 14827
+	activity_time = 798
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 2714
+	min_dl_throughput = 0
+	max_ul_throughput = 1355
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 9884027
+	irtt_server = 723513
+	dl_tcp_segments = 37
+	rtx_dl_tcp_segments = 5
+	ul_tcp_segments = 42
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 7
+	closed_tcp_flows = 9
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 9
+	time_millisecond = 730
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 246666720
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 8505047930648920359
+service_info:
+	service_id = Internal_Services_PR
+	service_dl_bytes = 8953
+	service_ul_bytes = 1930
+	activity_time = 31
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 2332
+	min_dl_throughput = 0
+	max_ul_throughput = 459
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 29129
+	irtt_server = 1070
+	dl_tcp_segments = 16
+	rtx_dl_tcp_segments = 3
+	ul_tcp_segments = 13
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 1
+	closed_tcp_flows = 1
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 9
+	time_millisecond = 772
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 828804845
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1601029701889950247
+service_info:
+	service_id = DNS
+	service_dl_bytes = 792
+	service_ul_bytes = 400
+	activity_time = 110
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 95
+	min_dl_throughput = 0
+	max_ul_throughput = 72
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 10
+	time_millisecond = 48
+	duration = 5157
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 687874810
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 8367688142014120442
+service_info:
+	service_id = default
+	service_dl_bytes = 2517
+	service_ul_bytes = 4481
+	activity_time = 1
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = 25680
+	irtt_server = 6424
+	dl_tcp_segments = 6
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 10
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 1
+	closed_tcp_flows = 1
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 10
+	time_millisecond = 294
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 1008976499
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1513209509156225553
+service_info:
+	service_id = Internal_Services_PR
+	service_dl_bytes = 17642
+	service_ul_bytes = 4930
+	activity_time = 377
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 4676
+	min_dl_throughput = 0
+	max_ul_throughput = 886
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 42728
+	irtt_server = 11195
+	dl_tcp_segments = 26
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 42
+	rtx_ul_tcp_segments = 17
+	active_tcp_flows = 0
+	created_tcp_flows = 4
+	closed_tcp_flows = 4
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 10
+	time_millisecond = 628
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 505748241
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1733885890897379754
+service_info:
+	service_id = default
+	service_dl_bytes = 5440
+	service_ul_bytes = 3856
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 1450
+	min_dl_throughput = 0
+	max_ul_throughput = 1028
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 10
+	time_millisecond = 748
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 738630907
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 3956412307004719510
+service_info:
+	service_id = tethering-catch-all
+	service_dl_bytes = 1080
+	service_ul_bytes = 2580
+	activity_time = 718
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 115
+	min_dl_throughput = 0
+	max_ul_throughput = 288
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 15
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 43
+	rtx_ul_tcp_segments = 9
+	active_tcp_flows = 0
+	created_tcp_flows = 5
+	closed_tcp_flows = 5
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 12
+	time_millisecond = 365
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 57042438
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 5323254793911665056
+service_info:
+	service_id = DNS
+	service_dl_bytes = 664
+	service_ul_bytes = 312
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 177
+	min_dl_throughput = 0
+	max_ul_throughput = 83
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 13
+	time_millisecond = 345
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 809410434
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1585267103194153476
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 70045
+	service_ul_bytes = 48941
+	activity_time = 368
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 17675
+	min_dl_throughput = 0
+	max_ul_throughput = 11938
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 256754
+	irtt_server = 443036
+	dl_tcp_segments = 187
+	rtx_dl_tcp_segments = 4
+	ul_tcp_segments = 177
+	rtx_ul_tcp_segments = 7
+	active_tcp_flows = 1
+	created_tcp_flows = 10
+	closed_tcp_flows = 9
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 13
+	time_millisecond = 512
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 38901493
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4877398430801985937
+service_info:
+	service_id = DNS
+	service_dl_bytes = 3140
+	service_ul_bytes = 2055
+	activity_time = 2
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 837
+	min_dl_throughput = 0
+	max_ul_throughput = 548
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 14
+	time_millisecond = 229
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 63156688
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1470425312696205800
+service_info:
+	service_id = DNS
+	service_dl_bytes = 682
+	service_ul_bytes = 455
+	activity_time = 652
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 95
+	min_dl_throughput = 0
+	max_ul_throughput = 72
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 14
+	time_millisecond = 306
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 568482062
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4857132232478818716
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 278957
+	service_ul_bytes = 125443
+	activity_time = 841
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 35854
+	min_dl_throughput = 0
+	max_ul_throughput = 12409
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 89872
+	irtt_server = 868944
+	dl_tcp_segments = 652
+	rtx_dl_tcp_segments = 9
+	ul_tcp_segments = 516
+	rtx_ul_tcp_segments = 12
+	active_tcp_flows = 3
+	created_tcp_flows = 32
+	closed_tcp_flows = 29
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 14
+	time_millisecond = 536
+	duration = 619
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 26127533
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6874744865540801063
+service_info:
+	service_id = default
+	service_dl_bytes = 731
+	service_ul_bytes = 678
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = undefined
+	irtt_server = 31024
+	dl_tcp_segments = 1
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 2
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 2
+	closed_tcp_flows = 2
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 14
+	time_millisecond = 863
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 19795697
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6507701495910105644
+service_info:
+	service_id = default
+	service_dl_bytes = 1912
+	service_ul_bytes = 17564
+	activity_time = 126
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 481
+	min_dl_throughput = 0
+	max_ul_throughput = 1390
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 17
+	time_millisecond = 640
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 237567631
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 162129620945076710
+service_info:
+	service_id = DNS
+	service_dl_bytes = 544
+	service_ul_bytes = 304
+	activity_time = 242
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 104
+	min_dl_throughput = 0
+	max_ul_throughput = 60
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 17
+	time_millisecond = 783
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 174480448
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 3706462527685656911
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 392827
+	service_ul_bytes = 229129
+	activity_time = 895
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 54846
+	min_dl_throughput = 0
+	max_ul_throughput = 18767
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 1595442
+	irtt_server = 4426044
+	dl_tcp_segments = 499
+	rtx_dl_tcp_segments = 27
+	ul_tcp_segments = 493
+	rtx_ul_tcp_segments = 2
+	active_tcp_flows = 1
+	created_tcp_flows = 29
+	closed_tcp_flows = 30
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 18
+	time_millisecond = 91
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 638370080
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 3515059543522410981
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 2051094
+	service_ul_bytes = 562325
+	activity_time = 823
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 126073
+	min_dl_throughput = 0
+	max_ul_throughput = 31699
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 4428359
+	irtt_server = 16358421
+	dl_tcp_segments = 2909
+	rtx_dl_tcp_segments = 1090
+	ul_tcp_segments = 2831
+	rtx_ul_tcp_segments = 52
+	active_tcp_flows = 4
+	created_tcp_flows = 223
+	closed_tcp_flows = 222
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 18
+	time_millisecond = 275
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 829521315
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 121597224298742265
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 482303
+	service_ul_bytes = 212137
+	activity_time = 749
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 41074
+	min_dl_throughput = 0
+	max_ul_throughput = 19178
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 2050609
+	irtt_server = 1666557
+	dl_tcp_segments = 633
+	rtx_dl_tcp_segments = 37
+	ul_tcp_segments = 536
+	rtx_ul_tcp_segments = 6
+	active_tcp_flows = 0
+	created_tcp_flows = 46
+	closed_tcp_flows = 49
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 18
+	time_millisecond = 413
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 237567631
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 162129620945076710
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 152743
+	service_ul_bytes = 106391
+	activity_time = 456
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 151516
+	min_dl_throughput = 0
+	max_ul_throughput = 27582
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 58308
+	irtt_server = 43877
+	dl_tcp_segments = 275
+	rtx_dl_tcp_segments = 14
+	ul_tcp_segments = 237
+	rtx_ul_tcp_segments = 15
+	active_tcp_flows = 0
+	created_tcp_flows = 9
+	closed_tcp_flows = 13
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 19
+	time_millisecond = 243
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 609546091
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4821103435459854750
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 10887
+	service_ul_bytes = 5786
+	activity_time = 722
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 2797
+	min_dl_throughput = 0
+	max_ul_throughput = 1404
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 418294
+	irtt_server = 1928827
+	dl_tcp_segments = 9
+	rtx_dl_tcp_segments = 4
+	ul_tcp_segments = 8
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 4
+	closed_tcp_flows = 4
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 19
+	time_millisecond = 721
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 717019881
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1583015303380468235
+service_info:
+	service_id = DNS
+	service_dl_bytes = 1258
+	service_ul_bytes = 552
+	activity_time = 666
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 578
+	min_dl_throughput = 0
+	max_ul_throughput = 348
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 19
+	time_millisecond = 986
+	duration = 500
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 26127534
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6874744865540801064
+service_info:
+	service_id = default
+	service_dl_bytes = 764
+	service_ul_bytes = 698
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = undefined
+	irtt_server = 29950
+	dl_tcp_segments = 2
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 2
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 2
+	closed_tcp_flows = 2
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 20
+	time_millisecond = 170
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 10773651
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1551490105988874760
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 371108
+	service_ul_bytes = 102762
+	activity_time = 874
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 22409
+	min_dl_throughput = 0
+	max_ul_throughput = 8490
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 10269209
+	irtt_server = 3231739
+	dl_tcp_segments = 401
+	rtx_dl_tcp_segments = 22
+	ul_tcp_segments = 425
+	rtx_ul_tcp_segments = 2
+	active_tcp_flows = 1
+	created_tcp_flows = 38
+	closed_tcp_flows = 38
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 20
+	time_millisecond = 288
+	duration = 5196
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 85852033
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 8367688142014120443
+service_info:
+	service_id = default
+	service_dl_bytes = 2656
+	service_ul_bytes = 4487
+	activity_time = 1
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = 32136
+	irtt_server = 5359
+	dl_tcp_segments = 8
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 10
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 1
+	closed_tcp_flows = 1
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 20
+	time_millisecond = 288
+	duration = 4857
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 687874811
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 8367688142014120444
+service_info:
+	service_id = default
+	service_dl_bytes = 3792
+	service_ul_bytes = 4559
+	activity_time = 1
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = 26698
+	irtt_server = 3210
+	dl_tcp_segments = 9
+	rtx_dl_tcp_segments = 1
+	ul_tcp_segments = 11
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 1
+	closed_tcp_flows = 1
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 20
+	time_millisecond = 453
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 276247792
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6494190697027994114
+service_info:
+	service_id = default
+	service_dl_bytes = 1912
+	service_ul_bytes = 25544
+	activity_time = 722
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 509
+	min_dl_throughput = 0
+	max_ul_throughput = 2138
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 20
+	time_millisecond = 554
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 460078945
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 2136958057547039089
+service_info:
+	service_id = default
+	service_dl_bytes = 5536
+	service_ul_bytes = 3872
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 1476
+	min_dl_throughput = 0
+	max_ul_throughput = 1032
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 22
+	time_millisecond = 38
+	duration = 427
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 747562147
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6876996665354486301
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 328
+	service_ul_bytes = 296
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = undefined
+	irtt_server = 34794
+	dl_tcp_segments = 4
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 4
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 4
+	closed_tcp_flows = 4
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 23
+	time_millisecond = 344
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 383252112
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6500946096469049887
+service_info:
+	service_id = default
+	service_dl_bytes = 24608
+	service_ul_bytes = 53164
+	activity_time = 169
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 1793
+	min_dl_throughput = 0
+	max_ul_throughput = 7865
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 23
+	time_millisecond = 861
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 322283923
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4825607035087225258
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 49208743
+	service_ul_bytes = 2092052
+	activity_time = 814
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 2946881
+	min_dl_throughput = 0
+	max_ul_throughput = 119955
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 72499
+	irtt_server = 59868
+	dl_tcp_segments = 11980
+	rtx_dl_tcp_segments = 234
+	ul_tcp_segments = 5535
+	rtx_ul_tcp_segments = 153
+	active_tcp_flows = 1
+	created_tcp_flows = 205
+	closed_tcp_flows = 204
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 24
+	time_millisecond = 755
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 202119913
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 2001850068725924341
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 217949
+	service_ul_bytes = 218649
+	activity_time = 556
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 33353
+	min_dl_throughput = 0
+	max_ul_throughput = 43999
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 39577
+	irtt_server = 30068
+	dl_tcp_segments = 238
+	rtx_dl_tcp_segments = 17
+	ul_tcp_segments = 243
+	rtx_ul_tcp_segments = 1
+	active_tcp_flows = 0
+	created_tcp_flows = 27
+	closed_tcp_flows = 27
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 24
+	time_millisecond = 843
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 762230510
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 13510833241850359
+service_info:
+	service_id = DNS
+	service_dl_bytes = 724
+	service_ul_bytes = 396
+	activity_time = 510
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 88
+	min_dl_throughput = 0
+	max_ul_throughput = 44
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 24
+	time_millisecond = 951
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 817738080
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 3499296944826614241
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 13834286
+	service_ul_bytes = 1055543
+	activity_time = 837
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 1963780
+	min_dl_throughput = 0
+	max_ul_throughput = 78808
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 449938
+	irtt_server = 476636
+	dl_tcp_segments = 2671
+	rtx_dl_tcp_segments = 63
+	ul_tcp_segments = 1922
+	rtx_ul_tcp_segments = 56
+	active_tcp_flows = 1
+	created_tcp_flows = 69
+	closed_tcp_flows = 78
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 25
+	time_millisecond = 98
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 762230510
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 13510833241850359
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 29216
+	service_ul_bytes = 10061
+	activity_time = 692
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 4779
+	min_dl_throughput = 0
+	max_ul_throughput = 1542
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 156925
+	irtt_server = 32485
+	dl_tcp_segments = 77
+	rtx_dl_tcp_segments = 8
+	ul_tcp_segments = 61
+	rtx_ul_tcp_segments = 6
+	active_tcp_flows = 1
+	created_tcp_flows = 5
+	closed_tcp_flows = 5
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 25
+	time_millisecond = 338
+	duration = 390
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 26127535
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6876996665354486302
+service_info:
+	service_id = default
+	service_dl_bytes = 657
+	service_ul_bytes = 690
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 2
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 2
+	closed_tcp_flows = 2
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 26
+	time_millisecond = 530
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 700563897
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1450159114373038567
+service_info:
+	service_id = DNS
+	service_dl_bytes = 763
+	service_ul_bytes = 372
+	activity_time = 1
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 0
+	min_dl_throughput = 0
+	max_ul_throughput = 0
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 26
+	time_millisecond = 799
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 661203713
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1729382291270009246
+service_info:
+	service_id = default
+	service_dl_bytes = 5536
+	service_ul_bytes = 3840
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 1476
+	min_dl_throughput = 0
+	max_ul_throughput = 1024
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 26
+	time_millisecond = 870
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 523221634
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4879650230615671207
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 874
+	service_ul_bytes = 1218
+	activity_time = 4
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 233
+	min_dl_throughput = 0
+	max_ul_throughput = 324
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 24534
+	irtt_server = 70174
+	dl_tcp_segments = 12
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 15
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 3
+	closed_tcp_flows = 3
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 27
+	time_millisecond = 185
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 112970794
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 2805742602211557877
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 194
+	service_ul_bytes = 260
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 51
+	min_dl_throughput = 0
+	max_ul_throughput = 69
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 4138532
+	irtt_server = 2279927
+	dl_tcp_segments = 2
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 3
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 1
+	closed_tcp_flows = 1
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 27
+	time_millisecond = 447
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 360100095
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1436648315490927062
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 1676253
+	service_ul_bytes = 394896
+	activity_time = 809
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 386134
+	min_dl_throughput = 0
+	max_ul_throughput = 62606
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 1227540
+	irtt_server = 1131091
+	dl_tcp_segments = 595
+	rtx_dl_tcp_segments = 16
+	ul_tcp_segments = 514
+	rtx_ul_tcp_segments = 34
+	active_tcp_flows = 0
+	created_tcp_flows = 29
+	closed_tcp_flows = 35
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 27
+	time_millisecond = 566
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 523221633
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1465921713068834951
+service_info:
+	service_id = default
+	service_dl_bytes = 2052
+	service_ul_bytes = 16924
+	activity_time = 434
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 547
+	min_dl_throughput = 0
+	max_ul_throughput = 3434
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 29
+	time_millisecond = 314
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 434572758
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4818851635646169515
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 144234
+	service_ul_bytes = 143060
+	activity_time = 398
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 34886
+	min_dl_throughput = 0
+	max_ul_throughput = 36355
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 32318
+	irtt_server = 32527
+	dl_tcp_segments = 167
+	rtx_dl_tcp_segments = 10
+	ul_tcp_segments = 174
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 16
+	closed_tcp_flows = 16
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 29
+	time_millisecond = 638
+	duration = 392
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 747562148
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6876996665354486303
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 328
+	service_ul_bytes = 296
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = undefined
+	irtt_server = 36419
+	dl_tcp_segments = 4
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 4
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 4
+	closed_tcp_flows = 4
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 30
+	time_millisecond = 98
+	duration = 378
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 26127520
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6876996665354486304
+service_info:
+	service_id = default
+	service_dl_bytes = 474
+	service_ul_bytes = 393
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 30
+	time_millisecond = 313
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 604251089
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1646065698163654787
+service_info:
+	service_id = default
+	service_dl_bytes = 0
+	service_ul_bytes = 14828
+	activity_time = 126
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 0
+	min_dl_throughput = 0
+	max_ul_throughput = 1078
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 30
+	time_millisecond = 878
+	duration = 4943
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 687874812
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 8367688142014120445
+service_info:
+	service_id = default
+	service_dl_bytes = 2656
+	service_ul_bytes = 4487
+	activity_time = 1
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = 23478
+	irtt_server = 3210
+	dl_tcp_segments = 8
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 10
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 1
+	closed_tcp_flows = 1
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 30
+	time_millisecond = 902
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 661203664
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 8845069702515392675
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 247678
+	service_ul_bytes = 37425
+	activity_time = 817
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 40052
+	min_dl_throughput = 0
+	max_ul_throughput = 6038
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 124216
+	irtt_server = 109005
+	dl_tcp_segments = 291
+	rtx_dl_tcp_segments = 30
+	ul_tcp_segments = 188
+	rtx_ul_tcp_segments = 3
+	active_tcp_flows = 1
+	created_tcp_flows = 27
+	closed_tcp_flows = 28
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 30
+	time_millisecond = 970
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 477144853
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 2760706605937852820
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 283244
+	service_ul_bytes = 188489
+	activity_time = 789
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 32057
+	min_dl_throughput = 0
+	max_ul_throughput = 20059
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 2142392
+	irtt_server = 17362728
+	dl_tcp_segments = 376
+	rtx_dl_tcp_segments = 15
+	ul_tcp_segments = 373
+	rtx_ul_tcp_segments = 2
+	active_tcp_flows = 3
+	created_tcp_flows = 46
+	closed_tcp_flows = 45
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 31
+	time_millisecond = 98
+	duration = 4929
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 85852034
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 8367688142014120447
+service_info:
+	service_id = default
+	service_dl_bytes = 2645
+	service_ul_bytes = 4487
+	activity_time = 1
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = 19249
+	irtt_server = 8554
+	dl_tcp_segments = 8
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 10
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 1
+	closed_tcp_flows = 1
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 31
+	time_millisecond = 230
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 127886848
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6244240917708931499
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 2198
+	service_ul_bytes = 1866
+	activity_time = 678
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 470
+	min_dl_throughput = 0
+	max_ul_throughput = 363
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 42263
+	irtt_server = 35283
+	dl_tcp_segments = 9
+	rtx_dl_tcp_segments = 1
+	ul_tcp_segments = 11
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 4
+	closed_tcp_flows = 4
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 31
+	time_millisecond = 195
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 491552385
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 2123447258664927637
+service_info:
+	service_id = default
+	service_dl_bytes = 5676
+	service_ul_bytes = 4208
+	activity_time = 5
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 1513
+	min_dl_throughput = 0
+	max_ul_throughput = 1122
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 31
+	time_millisecond = 570
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 491552387
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1427641116236186106
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 31705
+	service_ul_bytes = 11111
+	activity_time = 241
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 8184
+	min_dl_throughput = 0
+	max_ul_throughput = 2736
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 17889
+	irtt_server = 38740
+	dl_tcp_segments = 84
+	rtx_dl_tcp_segments = 5
+	ul_tcp_segments = 76
+	rtx_ul_tcp_segments = 2
+	active_tcp_flows = 0
+	created_tcp_flows = 5
+	closed_tcp_flows = 5
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 33
+	time_millisecond = 710
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 448777565
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4863887631919874475
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 59166
+	service_ul_bytes = 13138
+	activity_time = 265
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 10167
+	min_dl_throughput = 0
+	max_ul_throughput = 2104
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 127166
+	irtt_server = 121319
+	dl_tcp_segments = 118
+	rtx_dl_tcp_segments = 1
+	ul_tcp_segments = 85
+	rtx_ul_tcp_segments = 2
+	active_tcp_flows = 0
+	created_tcp_flows = 8
+	closed_tcp_flows = 8
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 34
+	time_millisecond = 893
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 742828126
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1425389316422500858
+service_info:
+	service_id = DNS
+	service_dl_bytes = 968
+	service_ul_bytes = 464
+	activity_time = 544
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 177
+	min_dl_throughput = 0
+	max_ul_throughput = 83
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 35
+	time_millisecond = 628
+	duration = 459
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 26127522
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6876996665354486305
+service_info:
+	service_id = default
+	service_dl_bytes = 651
+	service_ul_bytes = 616
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 2
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 2
+	closed_tcp_flows = 2
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 35
+	time_millisecond = 735
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 1052264049
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 2281073245622894990
+service_info:
+	service_id = default
+	service_dl_bytes = 0
+	service_ul_bytes = 14828
+	activity_time = 213
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 0
+	min_dl_throughput = 0
+	max_ul_throughput = 1078
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 37
+	time_millisecond = 381
+	duration = 900009
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 1021278561
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1465921713068834968
+service_info:
+	service_id = default
+	service_dl_bytes = 12544
+	service_ul_bytes = 9075
+	activity_time = 32
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 2948
+	min_dl_throughput = 0
+	max_ul_throughput = 1823
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 37
+	time_millisecond = 417
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 743799793
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6491938897214308872
+service_info:
+	service_id = default
+	service_dl_bytes = 16256
+	service_ul_bytes = 13636
+	activity_time = 322
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 2676
+	min_dl_throughput = 0
+	max_ul_throughput = 2315
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 37
+	time_millisecond = 738
+	duration = 411
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 747562149
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6876996665354486306
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 328
+	service_ul_bytes = 296
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = undefined
+	irtt_server = 32523
+	dl_tcp_segments = 4
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 4
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 4
+	closed_tcp_flows = 4
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 38
+	time_millisecond = 658
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 799440576
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4845873233410392513
+service_info:
+	service_id = DNS
+	service_dl_bytes = 688
+	service_ul_bytes = 312
+	activity_time = 409
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 148
+	min_dl_throughput = 0
+	max_ul_throughput = 62
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 40
+	time_millisecond = 133
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 905182224
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4816599835832484249
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 104543
+	service_ul_bytes = 42685
+	activity_time = 776
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 21721
+	min_dl_throughput = 0
+	max_ul_throughput = 8387
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 813284
+	irtt_server = 1140435
+	dl_tcp_segments = 200
+	rtx_dl_tcp_segments = 13
+	ul_tcp_segments = 200
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 30
+	closed_tcp_flows = 30
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 40
+	time_millisecond = 378
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 556730307
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6786924672807076268
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 441001
+	service_ul_bytes = 432411
+	activity_time = 813
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 102629
+	min_dl_throughput = 0
+	max_ul_throughput = 83962
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 193488
+	irtt_server = 314471
+	dl_tcp_segments = 908
+	rtx_dl_tcp_segments = 16
+	ul_tcp_segments = 970
+	rtx_ul_tcp_segments = 2
+	active_tcp_flows = 0
+	created_tcp_flows = 77
+	closed_tcp_flows = 77
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 40
+	time_millisecond = 497
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 105358640
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 7374644424178925841
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 153606
+	service_ul_bytes = 68182
+	activity_time = 776
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 16474
+	min_dl_throughput = 0
+	max_ul_throughput = 7817
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 1503427
+	irtt_server = 5006767
+	dl_tcp_segments = 96
+	rtx_dl_tcp_segments = 10
+	ul_tcp_segments = 85
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 1
+	created_tcp_flows = 17
+	closed_tcp_flows = 16
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 40
+	time_millisecond = 712
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 319318064
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4881902030429356449
+service_info:
+	service_id = DNS
+	service_dl_bytes = 664
+	service_ul_bytes = 312
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 177
+	min_dl_throughput = 0
+	max_ul_throughput = 83
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 40
+	time_millisecond = 678
+	duration = 399
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 26127523
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6876996665354486307
+service_info:
+	service_id = default
+	service_dl_bytes = 485
+	service_ul_bytes = 636
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 2
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 2
+	closed_tcp_flows = 2
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 40
+	time_millisecond = 786
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 319318064
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4881902030429356449
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 230515
+	service_ul_bytes = 67585
+	activity_time = 138
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 23384
+	min_dl_throughput = 0
+	max_ul_throughput = 8258
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 107589
+	irtt_server = 126324
+	dl_tcp_segments = 507
+	rtx_dl_tcp_segments = 7
+	ul_tcp_segments = 405
+	rtx_ul_tcp_segments = 18
+	active_tcp_flows = 0
+	created_tcp_flows = 20
+	closed_tcp_flows = 21
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 40
+	time_millisecond = 918
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 946309655
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1601029701889950239
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 74609
+	service_ul_bytes = 31448
+	activity_time = 390
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 17688
+	min_dl_throughput = 0
+	max_ul_throughput = 6402
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 438485
+	irtt_server = 428345
+	dl_tcp_segments = 106
+	rtx_dl_tcp_segments = 1
+	ul_tcp_segments = 104
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 2
+	created_tcp_flows = 15
+	closed_tcp_flows = 13
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 41
+	time_millisecond = 181
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 662869115
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 3947405107749978565
+service_info:
+	service_id = Internal_Services_PR
+	service_dl_bytes = 96547
+	service_ul_bytes = 34272
+	activity_time = 889
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 6997
+	min_dl_throughput = 0
+	max_ul_throughput = 1480
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 31349
+	irtt_server = 1381
+	dl_tcp_segments = 181
+	rtx_dl_tcp_segments = 19
+	ul_tcp_segments = 273
+	rtx_ul_tcp_segments = 90
+	active_tcp_flows = 3
+	created_tcp_flows = 42
+	closed_tcp_flows = 45
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 41
+	time_millisecond = 203
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 859578432
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 195906618150355466
+service_info:
+	service_id = DNS
+	service_dl_bytes = 4102
+	service_ul_bytes = 2010
+	activity_time = 495
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 998
+	min_dl_throughput = 0
+	max_ul_throughput = 464
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 41
+	time_millisecond = 378
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 859578432
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 195906618150355466
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 87183
+	service_ul_bytes = 88871
+	activity_time = 860
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 21726
+	min_dl_throughput = 0
+	max_ul_throughput = 22894
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 29407
+	irtt_server = 40162
+	dl_tcp_segments = 164
+	rtx_dl_tcp_segments = 21
+	ul_tcp_segments = 151
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 2
+	created_tcp_flows = 21
+	closed_tcp_flows = 24
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 41
+	time_millisecond = 426
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 355239889
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1447907314559352974
+service_info:
+	service_id = default
+	service_dl_bytes = 4488
+	service_ul_bytes = 3056
+	activity_time = 5
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 1196
+	min_dl_throughput = 0
+	max_ul_throughput = 814
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 41
+	time_millisecond = 468
+	duration = 4925
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 687874813
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 8367688142014120448
+service_info:
+	service_id = default
+	service_dl_bytes = 2668
+	service_ul_bytes = 4475
+	activity_time = 1
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = 40661
+	irtt_server = 2131
+	dl_tcp_segments = 8
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 10
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 1
+	closed_tcp_flows = 1
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 41
+	time_millisecond = 648
+	duration = 4975
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 85852035
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 8367688142014120449
+service_info:
+	service_id = default
+	service_dl_bytes = 2648
+	service_ul_bytes = 4469
+	activity_time = 1
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = 26742
+	irtt_server = 3217
+	dl_tcp_segments = 8
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 10
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 1
+	closed_tcp_flows = 1
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 43
+	time_millisecond = 147
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 61672225
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1450159114373038220
+service_info:
+	service_id = default
+	service_dl_bytes = 16952
+	service_ul_bytes = 22681
+	activity_time = 767
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 2492
+	min_dl_throughput = 0
+	max_ul_throughput = 3681
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 44
+	time_millisecond = 885
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 224674189
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6798183671875502500
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 4772
+	service_ul_bytes = 3446
+	activity_time = 649
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 1100
+	min_dl_throughput = 0
+	max_ul_throughput = 761
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 2780204
+	irtt_server = 1541258
+	dl_tcp_segments = 28
+	rtx_dl_tcp_segments = 1
+	ul_tcp_segments = 27
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 5
+	closed_tcp_flows = 5
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 44
+	time_millisecond = 862
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 806991648
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1427641116236186115
+service_info:
+	service_id = DNS
+	service_dl_bytes = 1509
+	service_ul_bytes = 720
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 402
+	min_dl_throughput = 0
+	max_ul_throughput = 192
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 44
+	time_millisecond = 924
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 806991648
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1427641116236186115
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 58822228
+	service_ul_bytes = 980953
+	activity_time = 735
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 5182124
+	min_dl_throughput = 0
+	max_ul_throughput = 70737
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 172583
+	irtt_server = 97322
+	dl_tcp_segments = 16921
+	rtx_dl_tcp_segments = 10
+	ul_tcp_segments = 3624
+	rtx_ul_tcp_segments = 7
+	active_tcp_flows = 0
+	created_tcp_flows = 39
+	closed_tcp_flows = 40
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 44
+	time_millisecond = 941
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 351851903
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4852628632851448216
+service_info:
+	service_id = Internal_Services_PR
+	service_dl_bytes = 37954
+	service_ul_bytes = 13142
+	activity_time = 888
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 4686
+	min_dl_throughput = 0
+	max_ul_throughput = 977
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 79159
+	irtt_server = 4745
+	dl_tcp_segments = 57
+	rtx_dl_tcp_segments = 2
+	ul_tcp_segments = 110
+	rtx_ul_tcp_segments = 44
+	active_tcp_flows = 1
+	created_tcp_flows = 18
+	closed_tcp_flows = 19
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 45
+	time_millisecond = 209
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 832627873
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1722626891828953453
+service_info:
+	service_id = default
+	service_dl_bytes = 2584
+	service_ul_bytes = 17160
+	activity_time = 259
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 689
+	min_dl_throughput = 0
+	max_ul_throughput = 1437
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 45
+	time_millisecond = 488
+	duration = 362
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 747562150
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6876996665354486309
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 328
+	service_ul_bytes = 296
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = undefined
+	irtt_server = 33456
+	dl_tcp_segments = 4
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 4
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 4
+	closed_tcp_flows = 4
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 45
+	time_millisecond = 748
+	duration = 339
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 26127524
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6876996665354486308
+service_info:
+	service_id = default
+	service_dl_bytes = 657
+	service_ul_bytes = 560
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 2
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 2
+	closed_tcp_flows = 2
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 45
+	time_millisecond = 790
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 17486456
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4785074638440890818
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 187659849
+	service_ul_bytes = 68748447
+	activity_time = 899
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 7879359
+	min_dl_throughput = 1170
+	max_ul_throughput = 3838400
+	min_ul_throughput = 2104
+tcp_info:
+	irtt_user = 5312359
+	irtt_server = 3842329
+	dl_tcp_segments = 11719
+	rtx_dl_tcp_segments = 124
+	ul_tcp_segments = 7542
+	rtx_ul_tcp_segments = 219
+	active_tcp_flows = 7
+	created_tcp_flows = 349
+	closed_tcp_flows = 346
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 46
+	time_millisecond = 142
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 575206657
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1790180886239510724
+service_info:
+	service_id = default
+	service_dl_bytes = 7700
+	service_ul_bytes = 10560
+	activity_time = 376
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 1476
+	min_dl_throughput = 0
+	max_ul_throughput = 2290
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 46
+	time_millisecond = 114
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 835668624
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 3503800544453984755
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 184632090
+	service_ul_bytes = 3187932
+	activity_time = 897
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 5382620
+	min_dl_throughput = 21715
+	max_ul_throughput = 80342
+	min_ul_throughput = 9441
+tcp_info:
+	irtt_user = 39479
+	irtt_server = 33198
+	dl_tcp_segments = 648
+	rtx_dl_tcp_segments = 10
+	ul_tcp_segments = 436
+	rtx_ul_tcp_segments = 6
+	active_tcp_flows = 3
+	created_tcp_flows = 3
+	closed_tcp_flows = 5
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 46
+	time_millisecond = 444
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 1046832523
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4843621433596707224
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 389723
+	service_ul_bytes = 206233
+	activity_time = 506
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 43711
+	min_dl_throughput = 0
+	max_ul_throughput = 28987
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 6587851
+	irtt_server = 0
+	dl_tcp_segments = 175
+	rtx_dl_tcp_segments = 12
+	ul_tcp_segments = 177
+	rtx_ul_tcp_segments = 1
+	active_tcp_flows = 0
+	created_tcp_flows = 26
+	closed_tcp_flows = 28
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 47
+	time_millisecond = 141
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 860065089
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 2247296248417616264
+service_info:
+	service_id = default
+	service_dl_bytes = 18812
+	service_ul_bytes = 12564
+	activity_time = 640
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 3130
+	min_dl_throughput = 0
+	max_ul_throughput = 1809
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 47
+	time_millisecond = 228
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 100609376
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1826209683258475013
+service_info:
+	service_id = default
+	service_dl_bytes = 1084
+	service_ul_bytes = 2668
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 573
+	min_dl_throughput = 0
+	max_ul_throughput = 711
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 47
+	time_millisecond = 306
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 1072932992
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 3071454980226417050
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 324140
+	service_ul_bytes = 374338
+	activity_time = 882
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 25017
+	min_dl_throughput = 0
+	max_ul_throughput = 9727
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 288518
+	irtt_server = 376130
+	dl_tcp_segments = 912
+	rtx_dl_tcp_segments = 5
+	ul_tcp_segments = 853
+	rtx_ul_tcp_segments = 33
+	active_tcp_flows = 8
+	created_tcp_flows = 32
+	closed_tcp_flows = 28
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 47
+	time_millisecond = 390
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 339828720
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4868391231547244961
+service_info:
+	service_id = DNS
+	service_dl_bytes = 1406
+	service_ul_bytes = 736
+	activity_time = 596
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 177
+	min_dl_throughput = 0
+	max_ul_throughput = 83
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 47
+	time_millisecond = 855
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 184774117
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1438900115304612350
+service_info:
+	service_id = DNS
+	service_dl_bytes = 816
+	service_ul_bytes = 388
+	activity_time = 332
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 177
+	min_dl_throughput = 0
+	max_ul_throughput = 83
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 48
+	time_millisecond = 571
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 184774117
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1438900115304612350
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 54254
+	service_ul_bytes = 66936
+	activity_time = 638
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 6577
+	min_dl_throughput = 0
+	max_ul_throughput = 2548
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 99089
+	irtt_server = 33657
+	dl_tcp_segments = 188
+	rtx_dl_tcp_segments = 4
+	ul_tcp_segments = 157
+	rtx_ul_tcp_segments = 12
+	active_tcp_flows = 0
+	created_tcp_flows = 14
+	closed_tcp_flows = 14
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 49
+	time_millisecond = 741
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 634217846
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6807190871130243516
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 89379985
+	service_ul_bytes = 1823876
+	activity_time = 896
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 3457161
+	min_dl_throughput = 304159
+	max_ul_throughput = 68549
+	min_ul_throughput = 6081
+tcp_info:
+	irtt_user = 224810852
+	irtt_server = 29343004
+	dl_tcp_segments = 1019
+	rtx_dl_tcp_segments = 22
+	ul_tcp_segments = 932
+	rtx_ul_tcp_segments = 39
+	active_tcp_flows = 4
+	created_tcp_flows = 100
+	closed_tcp_flows = 100
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 49
+	time_millisecond = 897
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 32749054
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6217219319944708542
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 504159
+	service_ul_bytes = 211540
+	activity_time = 862
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 31510
+	min_dl_throughput = 0
+	max_ul_throughput = 11707
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 8592003
+	irtt_server = 395576010
+	dl_tcp_segments = 637
+	rtx_dl_tcp_segments = 40
+	ul_tcp_segments = 572
+	rtx_ul_tcp_segments = 1
+	active_tcp_flows = 17
+	created_tcp_flows = 67
+	closed_tcp_flows = 51
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 49
+	time_millisecond = 974
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 1019385383
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1601029701889950242
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 127489
+	service_ul_bytes = 78591
+	activity_time = 665
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 29631
+	min_dl_throughput = 0
+	max_ul_throughput = 19345
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 2714569
+	irtt_server = 4255350
+	dl_tcp_segments = 126
+	rtx_dl_tcp_segments = 5
+	ul_tcp_segments = 133
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 18
+	closed_tcp_flows = 18
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 50
+	time_millisecond = 23
+	duration = 222922
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 11637808
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6847723267776578062
+service_info:
+	service_id = DNS
+	service_dl_bytes = 0
+	service_ul_bytes = 0
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 0
+	min_dl_throughput = 0
+	max_ul_throughput = 0
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 50
+	time_millisecond = 23
+	duration = 222951
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 11637808
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6847723267776578062
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 40
+	service_ul_bytes = 180
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 0
+	min_dl_throughput = 0
+	max_ul_throughput = 0
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 20298
+	irtt_server = 34470
+	dl_tcp_segments = 1
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 3
+	rtx_ul_tcp_segments = 1
+	active_tcp_flows = 0
+	created_tcp_flows = 1
+	closed_tcp_flows = 2
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 50
+	time_millisecond = 550
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 760717716
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6809442670943928768
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 64428
+	service_ul_bytes = 42990
+	activity_time = 712
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 6464
+	min_dl_throughput = 0
+	max_ul_throughput = 3140
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 888666
+	irtt_server = 1855696
+	dl_tcp_segments = 109
+	rtx_dl_tcp_segments = 9
+	ul_tcp_segments = 114
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 15
+	closed_tcp_flows = 19
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 50
+	time_millisecond = 808
+	duration = 369
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 26127525
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6876996665354486310
+service_info:
+	service_id = default
+	service_dl_bytes = 784
+	service_ul_bytes = 528
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 50
+	time_millisecond = 836
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 315008793
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 164381420758761950
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 630
+	service_ul_bytes = 839
+	activity_time = 647
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 84
+	min_dl_throughput = 0
+	max_ul_throughput = 138
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 2250170
+	irtt_server = 1617454
+	dl_tcp_segments = 9
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 11
+	rtx_ul_tcp_segments = 3
+	active_tcp_flows = 1
+	created_tcp_flows = 5
+	closed_tcp_flows = 4
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 51
+	time_millisecond = 287
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 1066826913
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1733885890897379735
+service_info:
+	service_id = default
+	service_dl_bytes = 20692
+	service_ul_bytes = 15248
+	activity_time = 610
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 1500
+	min_dl_throughput = 0
+	max_ul_throughput = 1291
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 52
+	time_millisecond = 28
+	duration = 4711
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 687874814
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 8367688142014120451
+service_info:
+	service_id = default
+	service_dl_bytes = 2524
+	service_ul_bytes = 4487
+	activity_time = 1
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = 32120
+	irtt_server = 4283
+	dl_tcp_segments = 6
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 10
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 1
+	closed_tcp_flows = 1
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 52
+	time_millisecond = 198
+	duration = 5069
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 85852036
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 8367688142014120450
+service_info:
+	service_id = default
+	service_dl_bytes = 2655
+	service_ul_bytes = 4487
+	activity_time = 1
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = 33144
+	irtt_server = 4290
+	dl_tcp_segments = 8
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 10
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 1
+	closed_tcp_flows = 1
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 52
+	time_millisecond = 666
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 512090048
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1823957883444789792
+service_info:
+	service_id = default
+	service_dl_bytes = 19536
+	service_ul_bytes = 21522
+	activity_time = 323
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 2028
+	min_dl_throughput = 0
+	max_ul_throughput = 2128
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 53
+	time_millisecond = 738
+	duration = 418
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 747562151
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6876996665354486311
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 328
+	service_ul_bytes = 296
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = undefined
+	irtt_server = 35327
+	dl_tcp_segments = 4
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 4
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 4
+	closed_tcp_flows = 4
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 54
+	time_millisecond = 193
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 911313892
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4803089036950372760
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 386878
+	service_ul_bytes = 215290
+	activity_time = 867
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 48075
+	min_dl_throughput = 0
+	max_ul_throughput = 26160
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 1130564
+	irtt_server = 1806240
+	dl_tcp_segments = 247
+	rtx_dl_tcp_segments = 14
+	ul_tcp_segments = 226
+	rtx_ul_tcp_segments = 4
+	active_tcp_flows = 1
+	created_tcp_flows = 15
+	closed_tcp_flows = 23
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 55
+	time_millisecond = 898
+	duration = 429
+	event_trigger = stop
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 26127526
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6876996665354486312
+service_info:
+	service_id = default
+	service_dl_bytes = 532
+	service_ul_bytes = 394
+	activity_time = 0
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = undefined
+	min_dl_throughput = undefined
+	max_ul_throughput = undefined
+	min_ul_throughput = undefined
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 56
+	time_millisecond = 158
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 878884145
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1722626891828953452
+service_info:
+	service_id = default
+	service_dl_bytes = 16468
+	service_ul_bytes = 10008
+	activity_time = 829
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 1320
+	min_dl_throughput = 0
+	max_ul_throughput = 1083
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 56
+	time_millisecond = 645
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 93744585
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4832362434528280990
+service_info:
+	service_id = DNS
+	service_dl_bytes = 2086
+	service_ul_bytes = 968
+	activity_time = 695
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 380
+	min_dl_throughput = 0
+	max_ul_throughput = 182
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 56
+	time_millisecond = 710
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 117449028
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6509953295723790898
+service_info:
+	service_id = DNS
+	service_dl_bytes = 30816
+	service_ul_bytes = 27697
+	activity_time = 787
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 2075
+	min_dl_throughput = 0
+	max_ul_throughput = 1765
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 58
+	time_millisecond = 53
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 16776688
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1621295900213117460
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 139316
+	service_ul_bytes = 82825
+	activity_time = 704
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 31396
+	min_dl_throughput = 0
+	max_ul_throughput = 19245
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 543908
+	irtt_server = 578237
+	dl_tcp_segments = 74
+	rtx_dl_tcp_segments = 1
+	ul_tcp_segments = 81
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 11
+	closed_tcp_flows = 11
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 58
+	time_millisecond = 136
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 701231258
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1540231106920448509
+service_info:
+	service_id = DNS
+	service_dl_bytes = 10603
+	service_ul_bytes = 5122
+	activity_time = 607
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 957
+	min_dl_throughput = 0
+	max_ul_throughput = 488
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 74437
+	irtt_server = 30487
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 58
+	time_millisecond = 519
+	duration = 900001
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 888078905
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 1601029701889950243
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 44453
+	service_ul_bytes = 25338
+	activity_time = 382
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 5931
+	min_dl_throughput = 0
+	max_ul_throughput = 4147
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 4969892
+	irtt_server = 11630853
+	dl_tcp_segments = 87
+	rtx_dl_tcp_segments = 7
+	ul_tcp_segments = 76
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 11
+	closed_tcp_flows = 11
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 58
+	time_millisecond = 729
+	duration = 900002
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 575820760
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6687845481004925328
+service_info:
+	service_id = Internal_Services_PR
+	service_dl_bytes = 17762
+	service_ul_bytes = 3818
+	activity_time = 33
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 4681
+	min_dl_throughput = 0
+	max_ul_throughput = 970
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 28311
+	irtt_server = 9086
+	dl_tcp_segments = 28
+	rtx_dl_tcp_segments = 2
+	ul_tcp_segments = 28
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 2
+	closed_tcp_flows = 2
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 59
+	time_millisecond = 180
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 385647361
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6503197896282735136
+service_info:
+	service_id = default
+	service_dl_bytes = 14100
+	service_ul_bytes = 16610
+	activity_time = 82
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 3466
+	min_dl_throughput = 0
+	max_ul_throughput = 3783
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = undefined
+	irtt_server = undefined
+	dl_tcp_segments = 0
+	rtx_dl_tcp_segments = 0
+	ul_tcp_segments = 0
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 0
+	created_tcp_flows = 0
+	closed_tcp_flows = 0
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 59
+	time_millisecond = 388
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 145913278
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 6149665325534151206
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 22656
+	service_ul_bytes = 16342
+	activity_time = 841
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 5341
+	min_dl_throughput = 0
+	max_ul_throughput = 4244
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 213736
+	irtt_server = 218069
+	dl_tcp_segments = 57
+	rtx_dl_tcp_segments = 1
+	ul_tcp_segments = 59
+	rtx_ul_tcp_segments = 0
+	active_tcp_flows = 1
+	created_tcp_flows = 11
+	closed_tcp_flows = 11
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+======EVENT======
+header:
+	event_id = service_usage
+	event_result = success
+	time_hour = 14
+	time_minute = 8
+	time_second = 59
+	time_millisecond = 764
+	duration = 900000
+	event_trigger = periodic
+	originating_node = self
+ue_info:
+	sx_session_cp_id:
+		cp_ip:
+			ipv4 = 10.241.1.17
+			ipv6 = undefined
+		cp_seid = 503899268
+	sx_session_up_id:
+		up_ip:
+			ipv4 = 10.241.1.56
+			ipv6 = undefined
+		up_seid = 4814348036018799027
+service_info:
+	service_id = catch-all
+	service_dl_bytes = 187588
+	service_ul_bytes = 87134
+	activity_time = 121
+	sc_id_ul = 
+	sc_id_dl = 
+	max_dl_throughput = 35780
+	min_dl_throughput = 0
+	max_ul_throughput = 12232
+	min_ul_throughput = 0
+tcp_info:
+	irtt_user = 216434
+	irtt_server = 103563
+	dl_tcp_segments = 418
+	rtx_dl_tcp_segments = 5
+	ul_tcp_segments = 334
+	rtx_ul_tcp_segments = 10
+	active_tcp_flows = 0
+	created_tcp_flows = 15
+	closed_tcp_flows = 15
+ue_info_2:
+	src_ip_address:
+		ipv4 = undefined
+		ipv6 = undefined
+	rat = undefined
+	imsi = undefined
+	apn = undefined
+	uli = undefined
+tcp_info_2:
+	tcp_dl_burst_periods = undefined
+	tcp_ul_burst_periods = undefined
+ip_info:
+	ip_dl_burst_periods = undefined
+	ip_ul_burst_periods = undefined
+ue_info_3:
+	msisdn = undefined
+	imei = undefined
+	qfi = undefined
+
+
+###FOOTER###
+termination_cause=0
+
+###STATS###
+Processing start time=Mon Sep  4 10:21:23 2023
+Processing end time=Mon Sep  4 10:21:24 2023
+Number of  SERVICE_USAGE=150 MAX-SIZE:180
+Number of unknown event=0
+Total number of events=150
