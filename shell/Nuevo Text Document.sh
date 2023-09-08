@@ -1,6 +1,7 @@
-source config.sh
+source ./etc/config.sh
 
-ERROR_LOG="error.log"
+# Obtener el nombre del archivo de log con marca de tiempo
+LOG_FILE="$(get_log_filename)"
 
 # Función para manejar errores y registrarlos en el archivo de registro
 handle_error() {

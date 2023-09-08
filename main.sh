@@ -1,19 +1,21 @@
-source ./etc/config.sh
+source /liberty/etc/config.sh 
 
 
 LOG_FILE="$(get_log_filename)"
 
 
-./shell/decoder_process.sh 2>> "$LOG_FILE"
+# output_variable=$(bash /liberty/shell/decoder_process.sh 2>&1)
 
-# Verificar si ocurrieron errores en el proceso de decodificación y registrarlos en el log
+# if [ $? -ne 0 ]; then
+#     handle_error "Error durante el proceso de decodificación."
+# fi
+
+
+
+output_variable=$(bash /liberty/shell/parse_and_insert.sh 2>&1)
+
+# Verifica si hubo un error en la ejecución
 if [ $? -ne 0 ]; then
-    handle_error "Error durante el proceso de decodificación."
+    handle_error "$output_variable" "$LOG_FILE"
 fi
 
-./shell/parse_and_insert.sh 2>> "$LOG_FILE"
-
-# Verificar si ocurrieron errores en el proceso principal y registrarlos en el log
-if [ $? -ne 0 ]; then
-    handle_error "Error durante la ejecución del proceso principal."
-fi
