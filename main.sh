@@ -1,21 +1,28 @@
-source /liberty/etc/config.sh 
+. $HOME/dpi_report/etc/config.conf
+. $HOME/dpi_report/etc/util.t
 
-
+CFG_FILE=$HOME/dpi_report/etc/config.conf
+UTIL_FILE=$HOME/dpi_report/etc/util.t
 LOG_FILE="$(get_log_filename)"
 
+handle_info "Process: [main], Start process" $LOG_FILE
+pids=""
+for directory in $EPGU_DIR 
+do
+	handle_info "Process: [main], Executing: [getfile_epgu.sh], Directory: [${EBM_DIR}/${directory}]" $LOG_FILE
+	sh $SHELL_DIR/getfile_epgu.sh $EBM_DIR $directory $CFG_FILE $UTIL_FILE $LOG_FILE &
 
-# output_variable=$(bash /liberty/shell/decoder_process.sh 2>&1)
+	handle_info "Process: [main], Executing: [parse_and_insert.sh], Directory: [${EBM_DIR}/${directory}]" $LOG_FILE 
+	sh $SHELL_DIR/parse_and_insert.sh $CFG_FILE $UTIL_FILE $LOG_FILE $directory &
 
-# if [ $? -ne 0 ]; then
-#     handle_error "Error durante el proceso de decodificación."
-# fi
+	pid=$!
+    	pids="$pids $pid" 
+done 
 
+for pid in $pids
+do
+	wait ${pid}
+done
 
-
-output_variable=$(bash /liberty/shell/parse_and_insert.sh 2>&1)
-
-# Verifica si hubo un error en la ejecución
-if [ $? -ne 0 ]; then
-    handle_error "$output_variable" "$LOG_FILE"
-fi
+handle_info "Process: [main], End of process" $LOG_FILE
 
